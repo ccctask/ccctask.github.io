@@ -21,11 +21,11 @@
 title: 活剥一只运维
 email: ccclasscats@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  别人的经验 将会成为你的经验，别人的坑 将会成为你的垫脚石。
+  hello 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 正经人不玩推特
-github_username:  茗猫
+twitter_username: minMico
+github_username:  ccctask
 
 # Build settings
 theme: minima
